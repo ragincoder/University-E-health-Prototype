@@ -1,0 +1,2 @@
+# University-E-health-Prototype
+An abandoned university project about Electronic health care designed to become a device that helps maintain your health. It can help you in any aspect of your health, such as knowing your diseases, prescription, and doctor diagnoses. It's also affordable and easy to access for students with the help of artificial intelligence that smoothen the data transfer process. Also, an early diagnosis feature that processed by the ai itself.
