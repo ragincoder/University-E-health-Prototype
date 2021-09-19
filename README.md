@@ -1,4 +1,4 @@
-## E-Health Webpage Prototype
+# E-Health Webpage Prototype
 <p>People always become ignorant when it comes to health the problem where eventually they tend to care about their condition when it worsens or muddles their daily routines. The main reason for the ignorant is laziness, financial issues, false diagnosis, and the rest.
 The reasons above that inspired us to create a services for managing this health care problem by using a very simple and an effective way that every people, especially people in 
 the university organization.</p>
@@ -9,22 +9,8 @@ Although the target was almost every person, our key focus was the university st
 <h3>Health Article</h3>
 <p>Through their name itself can inform you about the primary function. First, the health article feature; indeed its name describes itself. It stores a couple of health articles on the home page. Wet try to substitute for every three days to keep it all fresh and diverse also easy to be applied to student life.</p>
 
-<figure>
-  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
-  <figcaption><br>Fig.1.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
-  <figcaption><br>Fig.1.b - Example of Health Article page.</figcaption>
-</figure>
-
 <h3> Get Your Symptom </h3>
 <p>Next, get your symptom feature where we embedded machine learning to tell your early diagnosis by some questions which branch for a more accurate diagnosis. We teach the algorithm with all the data regarding symptoms and diseases. Thus, machine learning will give you four simple questions which specify your early diagnosis where the data is store in a server for further diagnosis. The algorithm will also hand an option to make an appointment with a clinic that cooperates under the university name.</p>
-
-<figure>
-  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
-  <figcaption><br>Fig.2.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
-  <figcaption><br>Fig.2.b - Example of Health Article page.</figcaption>
-</figure>
 
 <h3> Appointment </h3>
 <p>Next, the appointment feature is where you arrange a schedule for consulting with a doctor in the clinic. You can see all the available doctors throughout this feature. This feature showed the status appointment that had been requested with the selected doctor. If the doctor approves the patient's appointment request, the patient can attend the session within the doctor's schedule.</p>
@@ -38,3 +24,19 @@ Although the target was almost every person, our key focus was the university st
 
 ## About the Project
 <p>This E-health webpage prototype was created as my past university project. I did not have enough knowledge, time, and human power to finish the project. I am trying to continue what I have left before and tracking the progress on this website.</p>
+
+## Screenshots
+
+<figure>
+  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
+  <figcaption><br>Fig.1.a - E-health Home Page.</figcaption> 
+  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
+  <figcaption><br>Fig.1.b - Example of Health Article page.</figcaption>
+</figure>
+
+<figure>
+  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
+  <figcaption><br>Fig.2.a - E-health Home Page.</figcaption> 
+  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
+  <figcaption><br>Fig.2.b - Example of Health Article page.</figcaption>
+</figure>
