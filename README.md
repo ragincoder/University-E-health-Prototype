@@ -9,13 +9,13 @@ Although the target was almost every person, our key focus was the university st
 There were five features in the design; Health article, Get your symptom, Appointment, Get medicine, and about the healthcare instances. Through their name itself can inform you about the primary function. First, the health article feature; indeed its name describes itself. It stores a couple of health articles on the home page. Wet try to substitute for every three days to keep it all fresh and diverse also easy to be applied to student life. 
 
 <figure>
-  <img src="image/E-health/home/home_02.jpg" style="width:65%" >  
+  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
   <figcaption><br>Fig.1.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:65%" >
+  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
   <figcaption><br>Fig.1.b - Example of Health Article page.</figcaption>
 </figure>
 
-
+<h3> Get Your Symptom
 Next, get your symptom feature where we embedded machine learning to tell your early diagnosis by some questions which branch for a more accurate diagnosis. We teach the algorithm with all the data regarding symptoms and diseases. Thus, machine learning will give you four simple questions which specify your early diagnosis where the data is store in a server for further diagnosis. The algorithm will also hand an option to make an appointment with a clinic that cooperates under the university name.
 
 
