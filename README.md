@@ -1,7 +1,7 @@
 # University-Ehealth-Prototype
-People always become ignorant when it comes to health the problem where eventually they tend to care about their condition when it worsens or muddles their daily routines. The main reason for the ignorant is laziness, financial issues, false diagnosis, and the rest.
+<p>People always become ignorant when it comes to health the problem where eventually they tend to care about their condition when it worsens or muddles their daily routines. The main reason for the ignorant is laziness, financial issues, false diagnosis, and the rest.
 The reasons above that inspired us to create a services for managing this health care problem by using a very simple and an effective way that every people, especially people in 
-the university organization.
+the university organization.</p>
 
 Trying to embed an E-health function through the university web portal where almost everyone uses would be the best option.
 Although the target was almost every person, our key focus was the university students to be the first user of this new function because of their lack of awareness about their health. Hopefully, this feature can help increased student's cognizance of their health. Through this design would make students acquire health services and prescribed medicine more affordable and easy to access. It will record all the data whenever a student uses the university health care for further diagnosis.
@@ -10,10 +10,11 @@ There were five features in the design; Health article, Get your symptom, Appoin
 
 <figure>
   <img src="image/E-health/home/home_02.jpg" style="width:65%" >  
-  <figcaption>Fig.1.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:50%" >
-  <figcaption>Fig.1.b - Example of Health Article page.</figcaption>
+  <figcaption><br>Fig.1.a - E-health Home Page.</figcaption> 
+  <img src="image/E-health/home/home_01.jpg" style="width:65%" >
+  <figcaption><br>Fig.1.b - Example of Health Article page.</figcaption>
 </figure>
+
 
 Next, get your symptom feature where we embedded machine learning to tell your early diagnosis by some questions which branch for a more accurate diagnosis. We teach the algorithm with all the data regarding symptoms and diseases. Thus, machine learning will give you four simple questions which specify your early diagnosis where the data is store in a server for further diagnosis. The algorithm will also hand an option to make an appointment with a clinic that cooperates under the university name.
 
