@@ -10,9 +10,9 @@ Although the target was almost every person, our key focus was the university st
 <p>Through their name itself can inform you about the primary function. First, the health article feature; indeed its name describes itself. It stores a couple of health articles on the home page. Wet try to substitute for every three days to keep it all fresh and diverse also easy to be applied to student life.</p>
 
 <figure>
-  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
+  <img src="image/E-health/home/home_02.jpg" style="width:55%" align="left" >  
   <figcaption><br>Fig.1.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
+  <img src="image/E-health/home/home_01.jpg" style="width:55%" align="right" >
   <figcaption><br>Fig.1.b - Example of Health Article page.</figcaption>
 </figure>
 
