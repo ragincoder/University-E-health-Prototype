@@ -12,7 +12,7 @@ the university organization.</p>
 <p>Trying to embed an E-health function through the university web portal where almost everyone uses would be the best option.
 Although the target was almost every person, our key focus was the university students to be the first user of this new function because of their lack of awareness about their health. Hopefully, this feature can help increased student's cognizance of their health. Through this design would make students acquire health services and prescribed medicine more affordable and easy to access. It will record all the data whenever a student uses the university health care for further diagnosis. There were five features in the design; Health article, Get your symptom, Appointment, Get medicine, and about the healthcare instances.</p> 
 
-<h3Health Article</h3>
+<h3>Health Article</h3>
 <p>Through their name itself can inform you about the primary function. First, the health article feature; indeed its name describes itself. It stores a couple of health articles on the home page. Wet try to substitute for every three days to keep it all fresh and diverse also easy to be applied to student life.</p>
 
 <figure>
