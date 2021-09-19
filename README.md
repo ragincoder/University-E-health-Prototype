@@ -28,10 +28,6 @@ Although the target was almost every person, our key focus was the university st
 ## Screenshots
 
 <figure>
-  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
+  <img src="image/Webpage/E-health/home/home_01.jpg" style="width:55%" >
   
-  <img src="image/E-health/home/home_02.jpg" style="width:55%" >  
-  <figcaption><br>Fig.2.a - E-health Home Page.</figcaption> 
-  <img src="image/E-health/home/home_01.jpg" style="width:55%" >
-  <figcaption><br>Fig.2.b - Example of Health Article page.</figcaption>
 </figure>
