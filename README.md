@@ -1,4 +1,9 @@
-# University-Ehealth-Prototype
+---
+title: "About"
+permalink: "/about/"
+layout: page
+---
+
 <p>People always become ignorant when it comes to health the problem where eventually they tend to care about their condition when it worsens or muddles their daily routines. The main reason for the ignorant is laziness, financial issues, false diagnosis, and the rest.
 The reasons above that inspired us to create a services for managing this health care problem by using a very simple and an effective way that every people, especially people in 
 the university organization.</p>
