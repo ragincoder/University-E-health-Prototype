@@ -13,7 +13,7 @@ Although the target was almost every person, our key focus was the university st
 <p>Next, get your symptom feature where we embedded machine learning to tell your early diagnosis by some questions which branch for a more accurate diagnosis. We teach the algorithm with all the data regarding symptoms and diseases. Thus, machine learning will give you four simple questions which specify your early diagnosis where the data is store in a server for further diagnosis. The algorithm will also hand an option to make an appointment with a clinic that cooperates under the university name.</p>
 
 <h3> Appointment </h3>
-<p>Next, the appointment feature is where you arrange a schedule for consulting with a doctor in the clinic. You can see all the available doctors throughout this feature. This feature showed the status appointment that had been requested with the selected doctor. If the doctor approves the patient's appointment request, the patient can attend the session within the doctor's schedule.</p>
+<p>Next, the appointment feature is where you arrange a schedule for consulting with a doctor in the clinic. You can see all the available doctors throughout this feature. This feature showed the status appointment that is requested with the selected doctor. If the doctor approves the patient's appointment request, the patient can attend the session within the doctor's schedule.</p>
 
 <h3> Get Your Medicine </h3>
 <p>Next, get your medicine feature where after you finish with the consultation; then the doctor input the prescribed medicine recipe to the pharmacist throughout the server. The patient will be able to take their medicine at the clinic where they attend their consultation. They just needed to state their student id number to collect their prescription.</p>
@@ -23,7 +23,7 @@ Although the target was almost every person, our key focus was the university st
 
 
 ## About the Project
-<p>This E-health webpage prototype was created as my past university project. I did not have enough knowledge, time, and human power to finish the project. I am trying to continue what I have left before and tracking the progress on this website.</p>
+<p>This E-health webpage prototype creates as my past university project. I did not have enough knowledge, time, and human power to finish the project. I am trying to continue what I have left before and tracking the progress on this website.</p>
 
 ## Screenshots
 
